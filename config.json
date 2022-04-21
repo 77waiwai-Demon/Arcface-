@@ -1,0 +1,8 @@
+{
+  "image_size": 128,
+  "batch_size": 24,
+  "lr": 1e-2,
+  "last_lr": 1e-5,
+  "epochs": 100,
+  "s": 0.7
+}
